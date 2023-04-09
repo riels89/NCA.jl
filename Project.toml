@@ -1,0 +1,13 @@
+name = "NCA"
+uuid = "075b48df-1d54-4cdc-9a3c-6753e7e2e1ca"
+authors = ["Riley White <rileywhite89@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
