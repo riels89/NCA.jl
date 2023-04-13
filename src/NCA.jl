@@ -1,5 +1,7 @@
+
 module NCA
 
-# Write your package code here.
+include("state.jl");
+include("model.jl");
 
 end
